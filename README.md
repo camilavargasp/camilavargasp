@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Camila Vargas Poulsen
+
+More about me soon :smile:
 
 <!--
 **camilavargasp/camilavargasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[Emojis Dictionary](https://gist.github.com/rxaviers/7360908)
+
 -->
