@@ -10,7 +10,7 @@
 
 🐦 **Twitter:** [@CamVargasP](https://twitter.com/CamVargasP)
 
-🔆 **Currently working on:** Building a data library for all reaserch done at Palmyra Atoll. Check out [@padle-project](https://github.com/padl-project) for more details. 
+🔆 **Currently working on:** Building a data library for all reaserch done at Palmyra Atoll. Check out [@padl-project](https://github.com/padl-project) for more details. 
 
 
 <!--
