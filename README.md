@@ -10,8 +10,11 @@
 
 🐦 **Twitter:** [@CamVargasP](https://twitter.com/CamVargasP)
 
-🔆 **Currently working on:** Building a data library for all reaserch done at Palmyra Atoll. Check out [@padl-project](https://github.com/padl-project) for more details. 
+🔆 **Working on:** Building a data library for all reaserch done at Palmyra Atoll. Check out [@padl-project](https://github.com/padl-project) for more details. 
 
+:nerd_face: **Currently learning:** How cool is Quarto!
+
+👯 **I’m looking to collaborate on** a Quarto book with [@NCEAS](https://github.com/NCEAS) peers.
 
 <!--
 <h3 align="left"> About me </h3>
