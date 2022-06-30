@@ -1,4 +1,4 @@
-<h1 align="center"> CAMILA VARGAS POULSEN </h1>
+<h1 align="center"> CAMILA VARGAS POULSEN (She/Her) </h1>
 
 <h3 align="center"> Data Manager for the Palmyra Atoll Data Library, Marine Science Institute, UCSB </h3>
 
