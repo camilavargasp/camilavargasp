@@ -14,7 +14,7 @@
 
 :nerd_face: **Currently learning:** How cool is Quarto!
 
-👯 **I’m looking to collaborate on** a Quarto book with [@NCEAS](https://github.com/NCEAS) peers.
+👯 **I’m looking to collaborate on** a Quarto website with [@NCEAS](https://github.com/NCEAS) peers.
 
 <!--
 <h3 align="left"> About me </h3>
