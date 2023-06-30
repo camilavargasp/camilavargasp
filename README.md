@@ -11,13 +11,13 @@
 🐦 **Twitter:** [@CamVargasP](https://twitter.com/CamVargasP)
 
 🔆 **Working on:** 
--   Restructuring NCEAS data science training portfolio
--   Coordinatng and conducting data science trainings
+-   Restructuring NCEAS' data science training portfolio
+-   Coordinating and conducting data science training
 -   Providing training and data support to NCEAS working groups
 
 :nerd_face: **Currently learning:** How cool is Quarto! +GitHub Actions +Building packages in R
 
-👯 **I’m looking to collaborate on** Building an Rpackage for organizing the Learning Hub training materials
+👯 **I’m looking to collaborate on** Building an R package for organizing the Learning Hub training materials
 
 <!--
 <h3 align="left"> About me </h3>
