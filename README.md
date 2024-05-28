@@ -1,23 +1,22 @@
 <h1 align="center"> CAMILA VARGAS POULSEN </h1>
 
-<h3 align="center"> Data Science Educator | Learning Hub | National Center for Ecological Analysis and Synthesis </h3>
+<h3 align="center"> Data Science Training Program Manager | National Center for Ecological Analysis and Synthesis </h3>
 
 <br>
 
 😄 **Pronouns:** _she/her_
 
-📝 **Personal website:** [camilavargasp.github.io/](https://camilavargasp.github.io/) (_Work in progress_)
-
-🐦 **Twitter:** [@CamVargasP](https://twitter.com/CamVargasP)
+📝 **Personal website:** [camilavargasp.github.io/](https://camilavargasp.github.io/)
 
 🔆 **Working on:** 
--   Restructuring NCEAS' data science training portfolio
+-   Growing NCEAS' data science training portfolio
 -   Coordinating and conducting data science training
--   Providing training and data support to NCEAS working groups
+-   Developing a Shiny App for the [Delta Science Program](https://github.com/Delta-Stewardship-Council)
 
-:nerd_face: **Currently learning:** How cool is Quarto! +GitHub Actions +Building packages in R
+:nerd_face: **Currently learning:** How to custome my webstie with Saas + tips and tricks on data vis
 
-👯 **I’m looking to collaborate on** Building an R package for organizing the Learning Hub training materials
+💜 **Data Science Communities**
+-  I'm the co-organizer for [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/) and [EcoDataScience](https://ecodatascience.github.io/)
 
 <!--
 <h3 align="left"> About me </h3>
