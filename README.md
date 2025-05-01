@@ -1,6 +1,6 @@
 <h1 align="center"> CAMILA VARGAS POULSEN </h1>
 
-<h3 align="center"> Data Science Training Program Manager | National Center for Ecological Analysis and Synthesis </h3>
+<h3 align="center"> Technical Project Manager | Global Fishing Watch (GFW) </h3>
 
 <br>
 
@@ -9,14 +9,15 @@
 📝 **Personal website:** [camilavargasp.github.io/](https://camilavargasp.github.io/)
 
 🔆 **Working on:** 
--   Growing NCEAS' data science training portfolio
--   Coordinating and conducting data science training
--   Developing a Shiny App for the [Delta Science Program](https://github.com/Delta-Stewardship-Council)
+-   Managing research and innovation projects, ensuring technical feasibility 
+-   Supporting GFW Research Team track and report progress on projects and grants
+-   Contributing to updating GFW data documentation makes it more manageable and reproducible to keep up to date.
 
-:nerd_face: **Currently learning:** How to custome my webstie with Saas + tips and tricks on data vis
+
+:nerd_face: **Currently learning:** All about GFW data by exploring data with [`gfwr`](https://globalfishingwatch.github.io/gfwr/) package
 
 💜 **Data Science Communities**
--  I'm the co-organizer for [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/) and [EcoDataScience](https://ecodatascience.github.io/)
+-  I'm the co-organizer for [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/) and part of [EcoDataScience](https://ecodatascience.github.io/)
 
 <!--
 <h3 align="left"> About me </h3>
